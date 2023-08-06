@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishram\&rank_icon=percentile)
-
+![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishram\&rank_icon=github)
 <!--
 **manishram/manishram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
